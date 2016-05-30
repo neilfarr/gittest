@@ -1,5 +1,9 @@
 <?php 
 
-echo "test123.php";
+echo "helloglennn.php";
+
+echo "byeglennn.php";
+
+echo "byefarreg.php";
 
 ?>
